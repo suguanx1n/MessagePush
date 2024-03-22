@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee53aa60-fa4f-4e78-b0b2-923dab309beb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MQdemo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.8.4\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+  </component>
+  <component name="ProjectId" id="2atKH7GTbpA3Bhbb1cGaHQkekSI" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../amqp-bridge/vertx-examples" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AppApplication">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="engine" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="engine" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.app.AppApplication" />
+      <option name="ENABLE_LAUNCH_OPTIMIZATION" value="false" />
+      <option name="ENABLE_JMX_AGENT" value="false" />
+      <option name="ACTIVE_PROFILES" value="--add-opens java.base/java.lang=ALL-UNNAMED" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EngineApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="engine" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mqconsumer.engine.EngineApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessagePushApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="MessagePush" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mqexample.demo.MessagePushApplication" />
+      <option name="ENABLE_LAUNCH_OPTIMIZATION" value="false" />
+      <option name="ENABLE_JMX_AGENT" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-17" />
+      <envs>
+        <env name="--add-opens java.base/sun.net.util" value="ALL-UNNAMED" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EngineApplication" />
+      <item itemvalue="Spring Boot.MessagePushApplication" />
+      <item itemvalue="Spring Boot.AppApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee53aa60-fa4f-4e78-b0b2-923dab309beb" name="Default Changelist" comment="" />
+      <created>1705132344068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705132344068</updated>
+      <workItem from="1705132348577" duration="6305000" />
+      <workItem from="1705140044569" duration="21742000" />
+      <workItem from="1705298506278" duration="9059000" />
+      <workItem from="1708353936832" duration="3000000" />
+      <workItem from="1708413989728" duration="18910000" />
+      <workItem from="1708481358025" duration="1647000" />
+      <workItem from="1708495163660" duration="1757000" />
+      <workItem from="1708498344835" duration="1339000" />
+      <workItem from="1708603485512" duration="72000" />
+      <workItem from="1709018519689" duration="3912000" />
+      <workItem from="1709043701143" duration="616000" />
+      <workItem from="1709048852799" duration="1420000" />
+      <workItem from="1709050305872" duration="2404000" />
+      <workItem from="1709052755225" duration="293000" />
+      <workItem from="1709102636022" duration="1843000" />
+      <workItem from="1709176378024" duration="1061000" />
+      <workItem from="1709188405649" duration="8854000" />
+      <workItem from="1709275225400" duration="17816000" />
+      <workItem from="1709357731653" duration="8499000" />
+      <workItem from="1709373047478" duration="7100000" />
+      <workItem from="1709447170665" duration="604000" />
+      <workItem from="1709625813641" duration="8965000" />
+      <workItem from="1709821657654" duration="173000" />
+      <workItem from="1709876859854" duration="809000" />
+      <workItem from="1709887876889" duration="9249000" />
+      <workItem from="1709903958884" duration="7716000" />
+      <workItem from="1709963307858" duration="20866000" />
+      <workItem from="1710055052605" duration="8371000" />
+      <workItem from="1710305733158" duration="13277000" />
+      <workItem from="1710336266942" duration="6995000" />
+      <workItem from="1710410535070" duration="1869000" />
+      <workItem from="1710477312186" duration="5659000" />
+      <workItem from="1710515434676" duration="5696000" />
+      <workItem from="1710590119848" duration="8689000" />
+      <workItem from="1710654036792" duration="14671000" />
+      <workItem from="1710679849113" duration="3295000" />
+      <workItem from="1710825619000" duration="8745000" />
+      <workItem from="1710985486507" duration="1933000" />
+      <workItem from="1711010798313" duration="5649000" />
+      <workItem from="1711079106511" duration="1641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

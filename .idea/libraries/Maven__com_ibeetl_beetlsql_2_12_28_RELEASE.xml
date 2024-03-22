@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ibeetl:beetlsql:2.12.28.RELEASE">
+    <CLASSES>
+      <root url="jar://D:/apache-maven-3.8.4/repository/com/ibeetl/beetlsql/2.12.28.RELEASE/beetlsql-2.12.28.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/apache-maven-3.8.4/repository/com/ibeetl/beetlsql/2.12.28.RELEASE/beetlsql-2.12.28.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/apache-maven-3.8.4/repository/com/ibeetl/beetlsql/2.12.28.RELEASE/beetlsql-2.12.28.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
